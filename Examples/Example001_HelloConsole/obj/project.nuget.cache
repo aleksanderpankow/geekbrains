@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MllXsR0p6YZ0g2XtbhaYIuM312cOFg1KU0t+URs/aEDuq0ZU4BsvzA5Tkc6B1Tmy/gJ+78bsh3gGnhgG4B1lvg==",
+  "dgSpecHash": "bXn17FS7weNRyAOJw7wFMlvNixGzWQ8VVNtVL14tRxwd7VJySZ3LK17QxDp5xuyirpOMlPcUw6Z/CtfpGGJFow==",
   "success": true,
-  "projectFilePath": "/Users/aleksanderpankow/Documents/GitHub/gb-web/geekbrains/Examples/Example001_HelloConsole/Example001_HelloConsole.csproj",
+  "projectFilePath": "/Users/aleksanderpankow/Documents/GitHub/gb-web/Examples/Example001_HelloConsole/Example001_HelloConsole.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

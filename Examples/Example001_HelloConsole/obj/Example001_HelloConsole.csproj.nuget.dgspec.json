@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/aleksanderpankow/Documents/GitHub/gb-web/geekbrains/Examples/Example001_HelloConsole/Example001_HelloConsole.csproj": {}
+    "/Users/aleksanderpankow/Documents/GitHub/gb-web/Examples/Example001_HelloConsole/Example001_HelloConsole.csproj": {}
   },
   "projects": {
-    "/Users/aleksanderpankow/Documents/GitHub/gb-web/geekbrains/Examples/Example001_HelloConsole/Example001_HelloConsole.csproj": {
+    "/Users/aleksanderpankow/Documents/GitHub/gb-web/Examples/Example001_HelloConsole/Example001_HelloConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/aleksanderpankow/Documents/GitHub/gb-web/geekbrains/Examples/Example001_HelloConsole/Example001_HelloConsole.csproj",
+        "projectUniqueName": "/Users/aleksanderpankow/Documents/GitHub/gb-web/Examples/Example001_HelloConsole/Example001_HelloConsole.csproj",
         "projectName": "Example001_HelloConsole",
-        "projectPath": "/Users/aleksanderpankow/Documents/GitHub/gb-web/geekbrains/Examples/Example001_HelloConsole/Example001_HelloConsole.csproj",
+        "projectPath": "/Users/aleksanderpankow/Documents/GitHub/gb-web/Examples/Example001_HelloConsole/Example001_HelloConsole.csproj",
         "packagesPath": "/Users/aleksanderpankow/.nuget/packages/",
-        "outputPath": "/Users/aleksanderpankow/Documents/GitHub/gb-web/geekbrains/Examples/Example001_HelloConsole/obj/",
+        "outputPath": "/Users/aleksanderpankow/Documents/GitHub/gb-web/Examples/Example001_HelloConsole/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/aleksanderpankow/.nuget/NuGet/NuGet.Config"
